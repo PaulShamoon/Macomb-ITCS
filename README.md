@@ -1,3 +1,3 @@
 # Macomb-ITCS
 My intentions for this site are to contribute to open sources and colloborate with others. 
-The "Github_vowels" file will count the number of vowels in a file as well as the letters X, Y, and Z, and output the results along with the total vowels and other letters. 
+The Modified_surf_shop file is a c++ program that allows you to purchase different sized surfboards in any quantity ranging from small-XL. 
